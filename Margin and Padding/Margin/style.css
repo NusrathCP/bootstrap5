@@ -1,0 +1,10 @@
+.container{
+    background-color: brown;
+    border: 2px solid blue;
+}
+.container>div{
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    background-color: aquamarine;
+}
